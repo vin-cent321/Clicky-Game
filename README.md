@@ -3,4 +3,4 @@ Test your memory Zelda style! The goal is to click a different card each round b
 
 Heroku link to play:
 
-https://react-clicky-game.herokuapp.com/
+https://zeldaclickygame.herokuapp.com/
