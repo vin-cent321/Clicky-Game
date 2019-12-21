@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Shield",
+    "image": "https://www.pngkey.com/png/full/178-1784046_zelda-icons-google-search-master-sword-and-hylian.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Green Rupee",
+    "image": "https://www.seekpng.com/png/full/260-2601910_nintendo-zelda-green-rupee-icon.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Navi",
+    "image": "https://png2.cleanpng.com/sh/3734448fbc83e5898901caa8b959ff7e/L0KzQYm3VMA6N5NvfZH0aYP2gLBuTgRpbV5xfdlubnSwf7e0mvVtbJIyh9VqcnnxcX72hr11cZ5qRdDqdnmwfLr1i71naZoyjNpuLXzod7b1hL1wbl5Bfd5tYT24cbTpWcdmP5M7TqZuMz66QIe3UcAxOWI6SqU7OUK0Q4aAVMcyNqFzf3==/kisspng-the-legend-of-zelda-ocarina-of-time-navi-link-fai-the-legend-of-zelda-5acb97e7b664e3.7060100115232921357471.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Mask",
+    "image": "https://png2.cleanpng.com/sh/858d7f17fd2bbbfadb9f83b7a6eed71d/L0KzQYm3VME0N6JtfZH0aYP2gLBuTgRpbV5xfdlubnSwf7e0mvVtbJIyhdNzb4LkPcS0jfF0c144fJ99aHWwfLbuhf5lNZCyeeR9d3B1e368gfQxamIAfKs8NXG6SXA8VMczOmg5UaMAMkO5Qoe6Wcc3OGQ7RuJ3Zx==/kisspng-the-legend-of-zelda-majora-s-mask-3d-the-legend-o-artwork-5ad0b19d935a79.5472274915236263976036.png",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Link",
+    "image": "https://png2.cleanpng.com/sh/961b7486266074ed940fa5040ba94373/L0KzQYm3UsA3N6d0j5H0aYP2gLBuTgRpbV5xfdlubnSwf7e0mvVtbJIyeuRuYYTrPbFtTgRpbV58gd5tLYTrdX7zhfdmdpUyktd1ZHGwfLr1i71xdpgyiNtsLUXkR4qBVvRjOWZrftc9LkS7Q4G6U8U2OWY2T6s6M0i0SYGCUMEveJ9s/kisspng-the-legend-of-zelda-breath-of-the-wild-the-legend-zelda-link-png-pic-5a7986db15ffe4.4830335515179138190901.png",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Master Sword",
+    "image": "https://png2.cleanpng.com/sh/e692e50a60d750db4ee07ed0434e9fc2/L0KzQYm3VcE1N5J0fZH0aYP2gLBuTgRpbV5xfdlubnSwf7e0mvVtbJIyeuRuYYTrPbFtTgRpbV58gd5tLYTrdX7zhfdmdpUyTdNvOUi0crO5UsljamYzSKYAMki8RYa4VcI3O2E2SaMAMUS0SHB3jvc=/kisspng-the-legend-of-zelda-breath-of-the-wild-the-legend-5af981bb229bb5.0452895515263011151418.png",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Red Rupee",
+    "image": "https://png2.cleanpng.com/sh/13ae4646be4e503b6a6deb6ccb784a81/L0KzQYm3VMA1N512j5H0aYP2gLBuTgRpbV5xfdlubnSwf7e0mvVtbJIyh9VqcnnxcX72hr11cZ5qRd5ybnuwebBrifFvNaMyiud5ZXWwRbLqVPM0PJM5edY5YUexQoi8VcE2Pmc2TaQ7OES3RIq4U8A3PV91htk=/kisspng-the-legend-of-zelda-ocarina-of-time-link-indian-r-rupee-5ac4c34b4ad0a7.2755156615228444913065.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Zelda",
+    "image": "https://png2.cleanpng.com/sh/a7f098e0c499ba18f8c68672e69d30f9/L0KzQYm3VMA3N6lnj5H0aYP2gLBuTgBzcZ9ofeV8LYrofLXoTgRpbV5xfdlubnSwf7e0mvVtbJIyjOlybHnqeMW0kQJqdpQyfNN3Y3nxd368gfM4bmM2T6ZtMEW3QXA6Ucc5PWc4T6MAMkOzRYS3V8k0OWY6RuJ3Zx==/kisspng-princess-zelda-the-legend-of-zelda-twilight-princ-dancing-5ac7f2174d0541.3178563715230530793155.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Ganondorf",
+    "image": "https://png2.cleanpng.com/sh/81dce95fb55f261ebeffb40d9e7aca07/L0KzQYm3V8AyN5d7jpH0aYP2gLBuTgRpbV5xfdlubnSwf7e0mvVtbJIyh9VqcnnxcX72hr11cZ5qReVAcHX1PcT0ggNpNZMyf9N3b37nf8PtTcVjO2k9UKc6YUm5drO4TsU4QGo2UakBMUW2QIW6UcU3QWcATJD5bne=/kisspng-the-legend-of-zelda-ocarina-of-time-super-smash-b-ganondorf-5b388851a96fb1.578919761530431569694.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Potion",
+    "image": "https://png2.cleanpng.com/sh/43e914b15b9ac5a92bcdec959ef75f20/L0KzQYm3VcE5N6Nqi5H0aYP2gLBuTgdifJZ3RdR4dITvdcS0lPhmNZ1qf9d3ZD3ydn7DhfxlaV5nitdqdHiwf7e0lPhmNagyTdNvZkLkcobpgBYzaWQzSaUDNEO5Roi4VcI3Pmg3SKc8N0e2SXB3jvc=/kisspng-water-bottles-the-legend-of-zelda-breath-of-the-w-5aff2ab5bcf2a3.1384366715266720537739.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Harp",
+    "image": "https://png2.cleanpng.com/sh/a34525c31105699631f0283565624d85/L0KzQYm3U8I0N6FBfZH0aYP2gLBuTgRpbV5xfdlubnSwf7e0mvVtbJIyi91Ed3H1dH76lB9zbF55gNc2bHXqdbBrTf9nNasygNN7cD24cbO8gcdiO2U2T6hqNT63Qoe5VcE1OWI6SqMDNUS2R4K5VsgyNqFzf3==/kisspng-the-legend-of-zelda-skyward-sword-the-legend-of-z-harp-5ab5a7a34176a5.4262514115218543712681.png",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Korok",
+    "image": "https://png2.cleanpng.com/sh/9b7965c070c3f334b6dd24a4300c97c5/L0KzQYm3VMExN5tBiZH0aYP2gLBuTgRpbV5xfdlubnSwf7e0mvVtbJIyjNpuLYfsfrW0lBFsbaMyjNpuLXzod7b1hL1wbl55gNc2bHXqdbBrTf9nNatqhNZqLUXkc7TpWMk5PmZqeqkALkS2RYO3Usc4OWY3S6UBNkC3QIW4V8UveJ9s/kisspng-the-legend-of-zelda-the-wind-waker-the-legend-of-the-legend-of-zelda-5accb89865eb75.4352027715233660404175.png",
+    "count": 0
+  }
+]
